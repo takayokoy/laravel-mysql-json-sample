@@ -1,2 +1,2 @@
 # laravel-mysql-json-sample
-mysqlのJSON型をLaravelで扱うサンプル
+Laravel5.5のクエリビルダでmysqlのJSON型カラムを検索するサンプルプロジェクト
